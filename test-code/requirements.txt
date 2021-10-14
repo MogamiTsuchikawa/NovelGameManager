@@ -1,1 +1,3 @@
 BeautifulSoup4
+firebase-admin
+google-cloud-storage
